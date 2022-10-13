@@ -2,7 +2,7 @@
 {
   "modid": "reloadandreload",
   "name": "Reload And Reload",
-  "description": "鏈剰鏄姩鎬侀噸杞絤c鍔熻兘",
+  "description": "本意是动态重载mc功能",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://github.com/flowerinsnowdh/ReloadAndReload",
