@@ -1,0 +1,8 @@
+{
+  "package": "online.flowerinsnow.reloadandreload.mixin",
+  "client": [
+    "AccessorSoundHandler",
+    "MixinGuiScreenOptionsSounds"
+  ],
+  "refmap": "mixins.reloadandreload.refmap.json"
+}
